@@ -9,6 +9,30 @@ Este projeto propõe o desenvolvimento de uma ferramenta web multiplataforma (we
 | Giovanna Albuquerque  | 24.01460-5 | Desenvolvedor |
 | Isabella Passarelli   | 24.00038-8 | Desenvolvedor |
 
+## Funcionalidades
+01. Autenticação e Perfil
+* Registro e login de usuários
+
+02. Interface de ChatBot
+* Conversação natural com comandos de texto
+* Respostas baseadas no prompt do usuário
+* Geração de imagens
+* Opção de download das imagens geradas
+
+03. Interface de Galeria
+* Exibição das imagens geradas
+* Opção de download ou deletar as imagens
+
+04. Compatibilidade Multiplataforma
+* Interface responsiva e adaptável
+* Suporte para mobile e desktop
+
+05. Segurança de Dados
+* Armazenamento seguro de informações
+* Validação de entradas para prevenção de vulnerabilidades
+* Sessões autenticadas com persistência
+
 ## Tecnologias Utilizadas
 Frontend: Flutter
+
 Backend: Linguagem: Dart e Node.js - Banco de dados: MongoDB (NoSQL)
