@@ -10,5 +10,5 @@ Este projeto propõe o desenvolvimento de uma ferramenta web multiplataforma (we
 | Isabella Passarelli   | 24.00038-8 | Desenvolvedor |
 
 ## Tecnologias Utilizadas
-
-## Como executar o projeto
+Frontend: Flutter
+Backend: Linguagem: Dart e Node.js - Banco de dados: MongoDB (NoSQL)
